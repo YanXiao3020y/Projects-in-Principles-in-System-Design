@@ -6,7 +6,7 @@ The simulator will accept a command-line argument for the page replacement algor
 
 ### Parameters of the Virtual Memory System
 
-#### 3.1.a Define a VM, Main Memory, and Disk Memory
+#### A Define a VM, Main Memory, and Disk Memory
 - **Address Storage:** Each address stores a single integer.
 - **Virtual Memory:** 128 addresses (0 - 127).
 - **Main Memory:** 32 addresses (0 - 31).
@@ -19,7 +19,7 @@ The simulator will accept a command-line argument for the page replacement algor
   - Page 1: addresses 8-15.
   - Disk page number matches virtual page number.
 
-#### 3.1.b Initialize Memory Locations and Pages
+#### Initialize Memory Locations and Pages
 - All memory locations initialized to -1.
 - All virtual pages initially on disk (Valid bits = 0).
 
