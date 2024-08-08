@@ -1,6 +1,3 @@
-//Yan Xiao      35655533
-//Mingxin Yu    15152333
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
