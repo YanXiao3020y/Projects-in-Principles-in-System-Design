@@ -6,7 +6,7 @@ Implement a simple memory allocator for a
 fixed-size heap using C. The goal is to manage memory allocation and
 deallocation with an implicit free list, supporting various operations
 like allocating memory, freeing memory, and inspecting the heap\'s
-state.
+state. 
 
 ### Heap Structure
 
