@@ -1,7 +1,7 @@
 # A Simple Shell
 
 ## Overview
-A shell is a program that allows a user to send commands to the operating system (OS) and allows the OS to respond by printing output to the screen. The shell allows a simple character-oriented interface in which the user types a string of characters (terminated by pressing Enter (`\n`)) and the OS responds by printing lines of characters back to the screen. The goal of this project is to implement a simple shell.
+A shell is a program that allows a user to send commands to the operating system (OS) and allows the OS to respond by printing output to the screen. The shell allows a simple character-oriented interface in which the user types a string of characters (terminated by pressing Enter (`\n`)) and the OS responds by printing lines of characters back to the screen. The goal of this project is to implement a simple shell. 
 
 ## Typical Shell Interaction
 The shell executes the following basic steps in a loop:
