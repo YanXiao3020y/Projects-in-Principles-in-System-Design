@@ -2,7 +2,7 @@
 
 ### Objective
 
-Creates a client-server application to query stock market information.
+Create a client-server application to query stock market information.
 The client will interact with the server to fetch stock prices for
 Pfizer (PFE) and Moderna (MRNA) using historical data provided in CSV
 files.
