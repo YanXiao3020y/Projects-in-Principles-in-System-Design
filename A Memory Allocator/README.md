@@ -65,3 +65,5 @@ state.
 -   **Coalescing**: Combine adjacent free blocks into a single block
     upon freeing.
 
+### More Info
+For additional details, please refer to the specification document provided as specification.pdf.

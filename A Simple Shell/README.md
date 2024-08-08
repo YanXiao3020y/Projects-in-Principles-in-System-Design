@@ -97,3 +97,7 @@ int main() {
     }
     return 0;
 }
+```
+
+### More Info
+For additional details, please refer to the specification document provided as specification.pdf.

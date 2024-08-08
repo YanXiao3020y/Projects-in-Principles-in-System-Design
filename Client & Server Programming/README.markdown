@@ -86,3 +86,6 @@ files.
 -   Stock symbols must be PFE or MRNA.
 
 -   Handle invalid commands and unknown dates appropriately.
+
+### More Info
+For additional details, please refer to the specification document provided as specification.pdf.

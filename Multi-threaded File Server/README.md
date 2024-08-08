@@ -112,3 +112,7 @@ proper synchronization to manage file access.
 
 -   Files are assumed to be text files, and the MD5 hash calculation
     code is provided in the assignment materials.
+
+
+### More Info
+For additional details, please refer to the specification document provided as specification.pdf.
